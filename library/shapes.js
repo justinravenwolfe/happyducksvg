@@ -33,3 +33,16 @@ class Circle extends Shape
     var circle_string=
   }
 }
+
+export {cirlce};
+//square
+class Square extends shape
+
+constructor(textColor, shapeColor, text, sideLength)
+{
+  
+}
+draw(){
+    Var square_string = `<svq xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+    <rect x = "${150-this.sidLength /2 }" y = "${100-this.sideLength/2}"width = "${this.sideLength}
+}
