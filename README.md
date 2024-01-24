@@ -1,6 +1,6 @@
 Title: HappyDuckSVG Module 10
 Author(s): Justin Ramirez (allie steele of varsity tutors )
-Walkthrough Link: 
+Walkthrough Link: https://drive.google.com/file/d/1JCUVILJ7m4WH93sbYvTyjEU6sh8jizvq/view?usp=sharing
 File Link:https://github.com/justinravenwolfe/happyducksvg
 
 1) Description & Goal:
